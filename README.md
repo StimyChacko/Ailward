@@ -1,0 +1,3 @@
+# Ailward
+Android application built for College project. Application helps to identifies the caller not in contact, blacklist caller if you wish, etc..
+Ailward is act like a friendly app that to protect from unwanted or unknown calls. It is also helpful to check spam in SMS and blacklisting numbers. Ailward is an android application used to identify a caller. This application maintains a global phone directory by fetching all contacts with permission from mobile of application user. User can search a number detail from this global phone directory. Ailward has multiple useful features. If a user installs this application in mobile phone, user can blacklist phone numbers. 
